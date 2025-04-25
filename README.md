@@ -2,11 +2,11 @@
 
 This repository contains my work on the **ContactService**, **TaskService**, and **AppointmentService** classes. It showcases my ability to apply **unit testing** and **quality assurance techniques** to ensure functionality and reliability in software.
 
-## 🧪 Artifacts
+##  Artifacts
 - **Contact.java, ContactService.java, ContactTest.java, ContactServiceTest.java**: Code implementation of contact management functionality and corresponding tests.
 - **Summary and Reflections Report**: A detailed reflection on my approach to software testing, the techniques I employed, and the lessons learned during the project.
 
-## 📝 Reflection
+##  Reflection
 
 ### How can I ensure that my code, program, or software is functional and secure?
 I employ **unit testing** to verify that each component works as expected and include edge case scenarios to uncover potential issues. To ensure security, I validate user input for constraints (e.g., checking phone numbers and contact IDs) and handle exceptions to avoid unexpected failures.
